@@ -2,10 +2,7 @@
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UQK7m95n5jg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="315" height="600" src="https://cog2010.github.io/TicTacToe/" frameborder="0" allowfullscreen=""></iframe>
+<p>Uses: HTML5, CSS3, Bootstrap 3, Javascript, jQuery</p>
 
-Colorguard Design
-
-Melissa High School Marching Band, 2016
-
-Competitive Circuit: UIL Class AAAA (7 time High Auxiliary)
+<p>Designed for the FreeCodeCamp.com Frontend Development Certificate</p>

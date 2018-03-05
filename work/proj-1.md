@@ -4,9 +4,8 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zuJbUynvt7I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-Program Design and Choreography
+<iframe width="315" height="600" src="https://cog2010.github.io/JavaScript-Calculator/" frameborder="0" allowfullscreen=""></iframe>
 
-Grapevine High School Winterguard
+Uses: HTML5, CSS3, Bootstrap 3, Javascript, jQuery
 
-Competitive Circuit: Marching Auxiliaries (3rd Place, National Championships), North Texas Colorguard Association (6th place, Scholastic A championships)
+Designed for the FreeCodeCamp.com Frontend Development Certificate
