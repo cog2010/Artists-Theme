@@ -1,5 +1,5 @@
 ---
-
+title: Javascript Calculator
 ---
 
 
